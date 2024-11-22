@@ -1,5 +1,5 @@
 # app-dev
-##Info about my fabourite movie
+Info about my fabourite movie
 1. Scifi
 2. horror
 3. comedy
